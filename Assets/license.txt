@@ -1,0 +1,10 @@
+License
+
+This game is licensed CC-BY-SA 
+http://creativecommons.org/licenses/by-sa/3.0/
+
+The source code (the contents of the 0_scripts folder) is also licensed as CC0 (public domain).
+
+Game design and implementation: digipure
+Art: Jerom, obtained from Open Game Art http://opengameart.org
+Sound effects: Maoudamashii from http://maoudamashii.jokersounds.com/
